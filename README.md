@@ -1,4 +1,5 @@
 # 🔐 Secure Password Generator
+Live preview:https://ayushman013-amp.github.io/Secure-password-generator-Minor-project1-/
 
 A modern, highly customizable, and responsive Password Generator Web Application built with clean, modular HTML5, CSS3, and Vanilla JavaScript. Designed with a dark blue and purple glassmorphism interface, real-time security entropy calculation, custom slider controls, clipboard copying, and keyboard shortcuts.
 

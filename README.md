@@ -65,15 +65,6 @@ PasswordGenerator/
 
 ---
 
-## 📷 Screenshots Placeholder
-
-> *Screenshots of the application interface:*
-
-| Desktop Glassmorphism View | Mobile Responsive View |
-| :---: | :---: |
-| ![Desktop View Placeholder](https://via.placeholder.com/600x400/0b0f19/a78bfa?text=Desktop+Glassmorphism+Interface) | ![Mobile View Placeholder](https://via.placeholder.com/300x500/0b0f19/10b981?text=Mobile+Responsive+View) |
-
----
 
 ## 🚀 How to Run
 
